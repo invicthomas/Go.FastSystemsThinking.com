@@ -1,5 +1,5 @@
 # Go.FastSystemsThinking.com
-![mcgonagle](images/FastSystemsThinking.com_Final (1280 × 640 px) (1).png "Fast Systems Thinking")
+![mcgonagle](images/FastSystemsThinking.com_Final \(1280 × 640 px\) \(1\).png "Fast Systems Thinking")
 
 ## CODED - A Methodology for Fast Systems Thinking
 
