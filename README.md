@@ -13,10 +13,10 @@
     - **Execute as a Team**: Trust, Communicate, and Cooperate
     - **Transform and Innovate**: Experiment, Measure, Analyze, Decide, Act
     
-## The Application of Systems Thinking to Network Engineering.
-Systems thinking and network engineering are closely related as they both involve the study of complex systems. Network engineering is a subfield of computer science that focuses on the design, implementation, and maintenance of computer networks. Systems thinking, on the other hand, is a way of thinking about and understanding complex systems, including computer networks.
+## The Application of Systems Thinking to Systems and DevOps Engineering.
+Systems thinking and systems engineering are closely related as they both involve the study of complex systems. Systems engineering is a subfield of computer science that focuses on the design, implementation, and maintenance of complex systems. Systems thinking, on the other hand, is a way of thinking about and understanding complex systems, including large build environments.
 
-Systems thinking can be applied to network engineering in several ways:
+Systems thinking can be applied to systems engineering in several ways:
 
 1. Understanding the system as a whole: Systems thinking emphasizes the importance of understanding the entire system and how its various parts interact with each other. This can help network engineers to design more effective and efficient networks that take into account the different components and how they interact.
 
@@ -26,4 +26,4 @@ Systems thinking can be applied to network engineering in several ways:
 
 4. Adapting to changing conditions: Complex systems, including computer networks, are subject to change and uncertainty. Systems thinking can help network engineers to develop systems that are adaptable and resilient in the face of unexpected events or changes.
 
-Overall, the principles of systems thinking can help network engineers to design, implement, and maintain more effective and efficient computer networks that are better able to meet the needs of users and stakeholders.
+Overall, the principles of systems thinking can help systems engineers to design, implement, and maintain more effective and efficient computer networks that are better able to meet the needs of users and stakeholders.
