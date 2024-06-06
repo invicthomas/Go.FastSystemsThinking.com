@@ -1,5 +1,5 @@
 # Go.FastSystemsThinking.com
-![invicthomas](images/FastSystemsThinking.com_Final.png "Fast Systems Thinking")
+![invicthomas](images/FastSystemsThinking.com_Final (1280 × 640 px).png "Fast Systems Thinking")
 
 ## CODED - A Methodology for Fast Systems Thinking
 
